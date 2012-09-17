@@ -1,0 +1,4 @@
+bio
+===
+
+bio ~ aka resume
